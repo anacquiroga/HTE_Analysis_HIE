@@ -9,7 +9,7 @@ This repository contains data files related to the research paper titled “Pict
 * **data2811.dta**: This file contains participant behavior and choices during the experiment, as well as information including demographic variables and responses to various questions and quizzes.
 
 ### Variables:
-Below is a description of the variables contained in the data file that were used for the analysis presented in this paper, along with how each variable is referred to in the manuscript:
+Below is a description of the variables contained in the data file that were used for the analysis presented in this paper, along with how each variable is referred to in the manuscript (in parenthesis):
 
 - **saw_pinfo (Visualizing personalized information)**: =1 if participant visualized optional personalized information
 - **two_infotypes (Two personalized information options)**: = 1 if participant had two optional formats of personalized information, graphical and numerical (treat == 4)
