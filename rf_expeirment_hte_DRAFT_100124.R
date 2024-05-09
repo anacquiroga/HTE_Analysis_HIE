@@ -360,8 +360,8 @@ datar3$sawpinfohat_cf <- c.pred
 # ATE estimation
 ate_estimation <- average_treatment_effect(causal_forest3)
 # Extract ATE estimate and standard error
-ate_estimate <- ate_result["estimate"]
-ate_se <- ate_result["std.err"]
+ate_estimate <- ate_estimation["estimate"]
+ate_se <- ate_estimation["std.err"]
 
 # Print the results
 print(paste("ATE Estimate:", ate_estimate))
